@@ -18,18 +18,9 @@ A Python-based quantitative pricing application for financial derivatives featur
 
 Example screenshots of the application interface are available in the `demo/` folder.
 
-```
-demo/
-├── ss1.png
-├── ss2.png
-└── ss3.png
-```
-
-You can also embed the screenshots in the README:
-
-![Dashboard](demo/ss1.png)
-![Visualization](demo/ss2.png)
-![Sensitivity](demo/ss3.png)
+![Dashboard](demo/screenshot.png)
+![Price](demo/newplot1.png)
+![Greeks](demo/newplot2.png)
 
 ## Project Structure
 
